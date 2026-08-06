@@ -1,4 +1,4 @@
-public class teste2 { //O nome da classe principal sempre tem que ser igual ao nome do arquivo.java
+public class Teste2 { //O nome da classe principal sempre tem que ser igual ao nome do arquivo.java
 		public static void main(String[] args) {
 			byte pequeno = 120;
 			

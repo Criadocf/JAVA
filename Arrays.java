@@ -13,7 +13,7 @@ public class Arrays {
         novo[1] = 17;
         System.out.println(novo[0] + " " + novo[1]);
         
-        System.out.println(novo.length); // me diz quantos elementos existem nesse array.
+        System.out.println(novo.length); // me diz quantos elementos existem nesse array. #se for pra saber o tamanho de um ArrayList uso o comando .size
         
         
         //ARRAYLIST
